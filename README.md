@@ -3,11 +3,14 @@
 
 ***
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<p float="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI5a2lsMHcyMmZvZGtjejNzbHUza2hhbXdkemo2aDg2NHdlYzVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxosxw5LUmN4mk2R2r/giphy.gif" width="200" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" /> 
+</p>
 <br><br>
 
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI5a2lsMHcyMmZvZGtjejNzbHUza2hhbXdkemo2aDg2NHdlYzVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxosxw5LUmN4mk2R2r/giphy.gif" width="1300" height="550">
-<br><br>
+
+
 
