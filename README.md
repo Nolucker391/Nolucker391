@@ -25,11 +25,11 @@
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" />
   </a>
   
-  <a href="https://t.me/tehnomaniak07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-
-  <a href="https://t.me/tehnomaniak07" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/VK_Full_Logo_%282021-present%29.svg/2560px-VK_Full_Logo_%282021-present%29.svg.png" height="25" alt="vk logo"/>
+  <a href="https://vk.com/mijlka" target="_blank">
+    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk Color=white alt=github style="margin-bottom: 5px;"/>
+  </a>  
+  
+  <a href="https://t.me/nolucker" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge Color=white alt=github style="margin-bottom: 5px;"/>
   </a>  
 </div>
