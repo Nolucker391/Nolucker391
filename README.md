@@ -15,12 +15,12 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👨‍💻  Обо мне</h3>
 
 <p alight="left"> 
-  texttexttexttexttexttexttexttexttext<br>
-  texttexttexttexttexttexttexttexttext<br>
-  texttexttexttexttexttexttexttexttext
+  text text text text text text text text text<br>
+  text text text text text text text text text<br>
+  text text text text text text text text text
   <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 </p>
 <br><br>
