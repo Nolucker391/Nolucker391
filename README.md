@@ -23,7 +23,7 @@
   texttexttexttexttexttexttexttexttext
   <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 </p>
-
+<br><br>
 <div>
   <a href="https://github.com/rishavanand" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" />
