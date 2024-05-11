@@ -16,5 +16,20 @@
 ###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
+<p alight="left"> 
+  text
+  <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+</p>
+<div>
+  <a href="https://github.com/rishavanand" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 
-text
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/VK_Full_Logo_%282021-present%29.svg/2560px-VK_Full_Logo_%282021-present%29.svg.png" height="25" alt="vk logo"/>
+  </a>  
+</div>
