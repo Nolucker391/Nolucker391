@@ -24,7 +24,7 @@
 </p>
 <br><br>
 <div>
-  <a href="https://github.com/rishavanand" target="_blank">
+  <a href="https://github.com/Nolucker391" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" />
   </a>
   
