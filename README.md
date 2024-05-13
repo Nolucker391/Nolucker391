@@ -63,7 +63,7 @@
 
 <br/>
 <details>
-  <summary><b><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="17"> Статистика GitHub </b></summary>
+  <summary><b>Статистика GitHub <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="17"></b></summary>
     <p align="center">
         <img src="https://streak-stats.demolab.com?user=Nolucker391&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nolucker391&theme=tokyonight">
