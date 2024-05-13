@@ -25,11 +25,11 @@
 <br><br>
 <div>
   <a href="https://github.com/Nolucker391" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" width="75"/>
   </a>
   
   <a href="https://vk.com/mijlka" target="_blank">
-    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk Color=white alt=github style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk Color=white alt=github style="margin-bottom: 5px;" width="75"/>
   </a>  
   
   <a href="https://t.me/nolucker" target="_blank">
